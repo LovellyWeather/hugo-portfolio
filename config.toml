@@ -1,4 +1,3 @@
 baseURL = "https://tannerlovell.dev/"
 languageCode = "en-us"
 title = "Tanner Lovell"
-theme = "hugo-uilite"
