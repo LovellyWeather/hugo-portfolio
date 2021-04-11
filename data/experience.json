@@ -1,0 +1,16 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "2015 - 2018",
+			"company" : "University of Northern Iowa",
+			"website": "https://it.uni.edu/service-desk",
+			"description" : "My first position in the technology field, I worked for the University of Northern Iowa as a student-tech, supporting technology needs across multiple campus departments."
+		},
+		{
+			"timeperiod" : "2018 - Present",
+			"company" : "Banno / Jack Henry and Assoc.",
+			"description" : "I currently work as a Data Services Engineer, building and maintaining API's using Scala and functional programming practices. "
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "hdd",
+			"title" : "Data Services",
+			"description" : "Let me stand up a faster, simpler, and more effective data source for your product."
+		},
+		{
+			"icon" : "file-code",
+			"title" : "Web Development",
+			"description" : "Outgrown your Etsy shop? Need a modern portfolio? I can build it, and make it beautiful."
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Graphic Design",
+			"description" : "Logos, graphics, or full brand-identity to help you stand out from the crowd."
+		}
+	]
+}
