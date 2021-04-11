@@ -153,9 +153,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-a.btn.btn-borderless{
-  color: #ffffff;
-  background-color: rgb(84, 95, 251)
+a.btn.btn-outline-primary{
+  border-color: #9ea5fe;
+  color: #9ea5fe;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 .btn.btn-primary {
@@ -263,6 +265,7 @@ section.pink {
 .card {
   border-radius: 6px;
   border: none;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 
 #timeline {
